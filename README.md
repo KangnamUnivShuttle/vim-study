@@ -18,12 +18,12 @@ cursor
 - 0 : jump to start of line 
 - ^ : jump to start of sentence
 - $ : jump to end of sentence 
-- f<char> : jump to first <char> position
-- f<char> -> ; : jump to next <char> position
-- f<char> -> , : jump to previous <char> position
-- t<char> : jump to first <char> position - 1
-- t<char> -> ; : jump to next <char> position - 1
-- t<char> -> , : jump to previous <char> position - 1
+- f`char` : jump to first <char> position
+- f`char` -> ; : jump to next <char> position
+- f`char` -> , : jump to previous <char> position
+- t`char` : jump to first <char> position - 1
+- t`char` -> ; : jump to next <char> position - 1
+- t`char` -> , : jump to previous <char> position - 1
 
 If f or t is upper character then search negative direction (right -> left)
 
