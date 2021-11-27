@@ -1,7 +1,7 @@
 # vim-study
 
 
-cursor 
+## cursor 
 
 - h : left
 - j : down
@@ -34,4 +34,10 @@ This is test sentence!! with some speci@l characters...
 	}
 ```
 
+## search
 
+- `/world` : search all `world`
+- n : move cursor to next found `world`
+- N : move cursor to previously found `world`
+- * : hilight all found `world`
+- # : highlight and move negative direction
