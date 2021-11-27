@@ -39,5 +39,5 @@ This is test sentence!! with some speci@l characters...
 - `/world` : search all `world`
 - n : move cursor to next found `world`
 - N : move cursor to previously found `world`
-- * : hilight all found `world`
-- # : highlight and move negative direction
+- `*` : hilight all found `world`
+- `#` : highlight and move negative direction
