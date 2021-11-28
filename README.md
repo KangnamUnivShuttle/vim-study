@@ -41,3 +41,17 @@ This is test sentence!! with some speci@l characters...
 - N : move cursor to previously found `world`
 - `*` : hilight all found `world`
 - `#` : highlight and move negative direction
+
+## scroll
+
+- ctrl + e : line scroll down
+- ctrl + y : line scroll up
+- ctrl + u : half page up
+- ctrl + d : half page down
+- gg : move to first page
+- G : move to last page
+- `:number` : move to number of line
+
+## select
+
+- V : select line
