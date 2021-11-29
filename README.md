@@ -55,3 +55,9 @@ This is test sentence!! with some speci@l characters...
 ## select
 
 - V : select line
+
+## vim modes
+
+- normal : move cursor, screen ... etc
+- input : type text
+- command : run some command order
