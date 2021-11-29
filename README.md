@@ -61,3 +61,16 @@ This is test sentence!! with some speci@l characters...
 - normal : move cursor, screen ... etc
 - input : type text
 - command : run some command order
+
+## input
+
+- a : append
+- i : insert
+- o : open line
+- r : replace
+- A : append text at end of line
+- I : insert text at start of line
+- O : open line at previous line
+- ctrl + [ or esc : exit input mode
+- ctrl + h or backspace : remove character
+
