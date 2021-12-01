@@ -74,3 +74,33 @@ This is test sentence!! with some speci@l characters...
 - ctrl + [ or esc : exit input mode
 - ctrl + h or backspace : remove character
 
+## Delete
+
+_Always delete string should be stored at tmp memory_
+
+- x : delete current position's character
+- dd : delete current line
+- D : delete string from cursor to end of line
+- J : attach next line to end of this line
+
+## Paste
+
+- p : paste tmp string upper line
+- P : paste tmp string lower line
+
+## Yrank
+
+- yy : copy line
+ 
+
+sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+	aaasdfasdf
+asdfasdf
+sdfasdf
+asdfasdf
+sdfasdf
+asdfasdfasdfasdfasdfasdfaa
