@@ -92,10 +92,15 @@ _Always delete string should be stored at tmp memory_
 
 - yy : copy line
  
+## Undo, redo
 
-sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
-sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
-sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+- u : undo
+- ctrl + r : redo
+
+## Repeat
+
+- . : repeat last command
+
 sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
 sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
 	aaasdfasdf
