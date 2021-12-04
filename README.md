@@ -55,6 +55,8 @@ This is test sentence!! with some speci@l characters...
 ## select
 
 - V : select line
+- v : visual mode 
+- ctrl + v : block visual mode
 
 ## vim modes
 
