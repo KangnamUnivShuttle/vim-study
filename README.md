@@ -84,6 +84,7 @@ _Always delete string should be stored at tmp memory_
 - dd : delete current line
 - D : delete string from cursor to end of line
 - J : attach next line to end of this line
+- ciw : delete and insert  ex) asdfasdf <-- ciw, 'asdfasdf' <-- ci'
 
 ## Paste
 
@@ -106,8 +107,8 @@ _Always delete string should be stored at tmp memory_
 sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
 sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
 	aaasdfasdf
-asdfasdf
+asdfasdf asdf (asdfffdsa asdfasd
 sdfasdf
 asdfasdf
-sdfasdf
+asdfasdf asdf ) 'asdfasd'
 asdfasdfasdfasdfasdfasdfaa
