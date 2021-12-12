@@ -104,11 +104,16 @@ _Always delete string should be stored at tmp memory_
 
 - . : repeat last command
 
-sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
-sasdfasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
-	aaasdfasdf
-asdfasdf asdf (asdfffdsa asdfasd
-sdfasdf
-asdfasdf
-asdfasdf asdf ) 'asdfasd'
+## Replace
+
+- `/word` -> ciw -> `type replaced world` -> n -> . : find `word` cut and input word, find next `word` repeat command 
+- :%s/`world`/`replaced word`/`c or g` : c is always ask, g is global
+
+asdfasdf asdfasdf
+shelloasdfasdfasdfasdfasdfaadfadsfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdfasdfaasdfasdfasdfaaa
+	aahelloasdf
+helloasdf asdf (asdfffdsa asdf
+sdfhello
+helloasdf
+asdfasdf asdf ) 'asdf'
 asdfasdfasdfasdfasdfasdfaa
