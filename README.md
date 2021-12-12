@@ -1,5 +1,8 @@
 # vim-study
 
+Useful link
+
+- [vim tutorial korean](https://youtube.com/playlist?list=PLGPF8gvWLYyrmWBOzypMlVgWKfqTzYvgQ)
 
 ## cursor 
 
